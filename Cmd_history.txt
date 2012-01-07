@@ -32,3 +32,4 @@ spork --bootstrap
 inserted 'ActiveSupport::Dependencies.clear' in spec/spec_helpers.rb
 Control-C to quit spork and retart it $ spork
 time rspec spec/
+$ git merge [branchname]
